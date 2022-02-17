@@ -22,7 +22,7 @@ function App() {
       style={{
         backgroundImage: `url(${bg_img})`,
       }}
-      className="App w-screen h-screen bg-cover bg-no-repeat"
+      className="App w-screen h-screen bg-cover bg-no-repeat font-redressed"
     >
       <div className="search text-center pt-2">
         <input
