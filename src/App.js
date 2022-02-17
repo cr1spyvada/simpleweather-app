@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import axios from "axios";
-import { FaSearch } from "react-icons/fa";
-import { eventWrapper } from "@testing-library/user-event/dist/utils";
 import bg_img from "./assets/dark_bg.jpg";
 
 function App() {
